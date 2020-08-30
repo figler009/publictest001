@@ -1,0 +1,18 @@
+ - Infinite Brain 
+    - Analisis de redes sociales
+        - Conocer todas las herrmientas de redes sociales
+        - Diseñador 
+        - Bots con antiguedad
+    - Creacion de contenido online
+        - Creacion de un digitador de voz
+        - Creacion de un Creador de contenido
+        - Crear editor de video que utilice el digitador de voz y el creador de contenido
+    - Creacion de contenido en redes sociales
+        - Creacion de personas virtuales
+    - Analisis de negocios 
+        - Consultorias usando datos
+        - Auditorias de sistemas
+        - Soluciones internas 
+    
+    - Solucionadores de problemas
+        - Uso de todos los demas
