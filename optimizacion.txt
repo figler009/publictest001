@@ -1,0 +1,24 @@
+- Hosting
+ - SSL
+ - ssd 
+ - gzip
+ - wordpress specialized
+
+- images
+	- Exactitud de tamanos de imagenes
+	- formatos .jpg y .webp(el mejor) buscar plugin para photoshop WebPShop o SQUOOSH.app
+	- retrasa su carga con Lazy load
+	- plugins ¨Resize image after upload¨ redimenciona a la hora de la subida de imagenes
+
+- plugins
+	- Asset CleanUp: Page Speed Booster -> elimina codigo de plugins sin uso en una pagina
+ 	- Plugin organize -> hace algo similar a lo de arriba
+        - https://www.youtube.com/watch?v=aRC8UJeIPCs video para hacerlo de la mejor manera
+        - WP supercache guarda cache 
+	- Optimizacion del codigo js y css plugins(Fast velocity minify), 
+	  impedir que js retrace la carga(plugin async javascript)
+
+plugins tochos:
+ - Autoptimize
+ - SG optimizer
+ - PageSpeed ninja
